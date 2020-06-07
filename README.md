@@ -5,7 +5,7 @@ Starting off, similarly, but at a much more depth. This beginning is about to be
 > “Never trust anyone who has not brought a ~~book~~ *reading note* with them.” – Lemony Snicket :shipit:
 
 # **Table of Contents**
-* #### [Day 1: HTML](https://abukhalil95.github.io/reading-notes/HTML/)
+* #### [Day 1: HTML](https://abukhalil95.github.io/reading-notes/HTML.md)
 * #### [Day 2: N/A](https://abukhalil95.github.
 * #### [Day 3: N/A](https://abukhalil95.github.
 * #### [Day 4: N/A](https://abukhalil95.github.
