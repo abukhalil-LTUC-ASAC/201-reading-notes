@@ -1,6 +1,6 @@
 # [The](https://en.wikipedia.org/wiki/The) [HyperText](https://www.w3.org/WhatIs.html) [Markup](https://techterms.com/definition/html) [Language](https://www.webopedia.com/TERM/P/programming_language.html)
 
-Adding up to the [***previous one page knowledge***](https://abukhalil95.github.io/learning-journal/the_3w) is a comprehensive longer one page look into the topic.
+Adding up to the [***previous one page knowledge***](https://abukhalil95.github.io/learning-journal/the_3w) is a comprehensive longer multi-pages look into the topic.
 
 As you have noticed, it does not take much to understand the code, and especially plain HTML and CSS code. Although this understanding will amplify your contribution as a non-tech person in any web related work by multiple folds wether as a designer, marketer or even general manager.
 
