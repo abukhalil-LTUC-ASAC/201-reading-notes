@@ -6,13 +6,13 @@ As you have noticed, it does not take much to understand the code, and especiall
 
 So what really happens when you click a link in your browser? Or what is even a [browser](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)? I do recommend a detailed [video by Khan Academy](https://youtu.be/1K64fWX5z4U) that beautifully explains the whole process. [Basically this is how I would explain it]((https://wsvincent.com/what-happens-when-url/)):
 
-1.You enter a URL into a web browser
-1.The browser looks up the [IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm) for the domain name via [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)
-1.The browser sends a [HTTP](https://www.webopedia.com/TERM/H/HTTP.html) request to the server
-1.The server sends back a HTTP response
-1.The browser begins rendering the HTML
-1.The browser sends requests for additional objects embedded in HTML (images, css, JavaScript) and repeats steps 3-5.
-1.Once the page is loaded, the browser sends further [async](https://stackify.com/when-to-use-asynchronous-programming) requests as needed.
+1. You enter a URL into a web browser
+2. The browser looks up the [IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm) for the domain name via [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/)
+3. The browser sends a [HTTP](https://www.webopedia.com/TERM/H/HTTP.html) request to the server
+4. The server sends back a HTTP response
+5. The browser begins rendering the HTML
+6. The browser sends requests for additional objects embedded in HTML (images, css, JavaScript) and repeats steps 3-5.
+7. Once the page is loaded, the browser sends further [async](https://stackify.com/when-to-use-asynchronous-programming) requests as needed.
 
 And that is the whole process. I think<sub>*scratches head*</sub>. 
 
@@ -51,7 +51,7 @@ Adding ID and class attributes in a sound manner to differentiate elements when 
 
 Scripting your way to success usually means trial and error, rinse and repeat. The same could be said about scripts in a computer, iterating through your failures until something good happens, methodically. 
 
-Understanding what you want to do, and get some kind of [process and flowchart such as this kookie maker](https://gojs.net/latest/samples/flowchart.html) made to translate it to machine language that it could understand is your first step. 
+Understanding what you want to do, and get some kind of [process and flowchart such as this kookie maker](https://gojs.net/latest/samples/flowchart.html) made, then translate it to machine language so that it could understand what you want done is your first step. 
 
 Tasks are broken down, each time you find it too complicated, break it down again until its as simple as adding variables, implementing them into a function and loading up a result.
 
@@ -61,5 +61,5 @@ More on how the computer really looks at our problems is through this excellent 
 
 From the past posts in the [learning journal](https://abukhalil95.github.io/learning-journal/), its apparently clear how to link different files together. A `<link rel= "stylesheet" href="styles.css"/>` for our CSS, and a `<script src="js/add-content.js">` for our JS files. The only real part left is to add some content and make something happen.
 
-> Think like a computer and I guarantee you you'd find a way to do it, at at a small cost of your ~~sanity~~ brain power. -Yahya Abu Khalil
+> Think like a computer and I guarantee you you'd find a way to do it, at a small cost of your ~~sanity~~ brain power. -Yahya Abu Khalil
 
