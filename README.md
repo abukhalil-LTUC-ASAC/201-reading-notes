@@ -5,18 +5,18 @@ Starting off, similarly, but at a much more depth. This beginning is about to be
 > “Never trust anyone who has not brought a ~~book~~ *reading note* with them.” – Lemony Snicket :shipit:
 
 # **Table of Contents**
-* #### [Day 1: HTML](https://abukhalil95.github.io/reading-notes/class-01)
+* #### [Day 1: HTML1.0](https://abukhalil95.github.io/reading-notes/class-01)
 * #### [Day 2: HTML2.0](https://abukhalil95.github.io/reading-notes/class-02)
-* #### [Day 3: N/A](https://abukhalil95.github.
-* #### [Day 4: N/A](https://abukhalil95.github.
-* #### [Day 5: N/A](https://abukhalil95.github.
-* #### [Day 6: N/A](https://abukhalil95.github.
-* #### [Day 7: N/A](https://abukhalil95.github.
-* #### [Day 8: N/A](https://abukhalil95.github.
-* #### [Day 9: N/A](https://abukhalil95.github.
-* #### [Day 10: N/A](https://abukhalil95.github.
-* #### [Day 11: N/A](https://abukhalil95.github.
-* #### [Day 12: N/A](https://abukhalil95.github.
-* #### [Day 13: N/A](https://abukhalil95.github.
-* #### [Day 14: N/A](https://abukhalil95.github.
-* #### [Day 15: N/A](https://abukhalil95.github.
+* #### [Day 3: HTML3.0](https://abukhalil95.github.io/reading-notes/class-03)
+* #### [Day 4: N/A](https://abukhalil95.github.io/reading-notes/class-04)
+* #### [Day 5: N/A](https://abukhalil95.github.io/reading-notes/class-05)
+* #### [Day 6: N/A](https://abukhalil95.github.io/reading-notes/class-06)
+* #### [Day 7: N/A](https://abukhalil95.github.io/reading-notes/class-07)
+* #### [Day 8: N/A](https://abukhalil95.github.io/reading-notes/class-08)
+* #### [Day 9: N/A](https://abukhalil95.github.io/reading-notes/class-09)
+* #### [Day 10: N/A](https://abukhalil95.github.io/reading-notes/class-10)
+* #### [Day 11: N/A](https://abukhalil95.github.io/reading-notes/class-11)
+* #### [Day 12: N/A](https://abukhalil95.github.io/reading-notes/class-12)
+* #### [Day 13: N/A](https://abukhalil95.github.io/reading-notes/class-13)
+* #### [Day 14: N/A](https://abukhalil95.github.io/reading-notes/class-14)
+* #### [Day 15: N/A](https://abukhalil95.github.io/reading-notes/class-15)
