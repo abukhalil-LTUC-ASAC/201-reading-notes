@@ -2,9 +2,7 @@
 
 Starting off, similarly, but at a much more depth. This beginning is about to be a ***15 day grind to read***.
 
-> “Never trust anyone who has not brought a ~~book~~ *reading note* with them.” – Lemony Snicket
-
-:shipit:
+> “Never trust anyone who has not brought a ~~book~~ *reading note* with them.” – Lemony Snicket :shipit:
 
 # **Table of Contents**
 * #### [Day 1: HTML](https://abukhalil95.github.io/reading-notes/class-01)
