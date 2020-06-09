@@ -5,10 +5,10 @@ Starting off, similarly, but at a much more depth. This beginning is about to be
 > “Never trust anyone who has not brought a ~~book~~ *reading note* with them.” – Lemony Snicket :shipit:
 
 # **Table of Contents**
-* #### [Day 1: HTML1.0](https://abukhalil95.github.io/reading-notes/class-01)
-* #### [Day 2: HTML2.0](https://abukhalil95.github.io/reading-notes/class-02)
-* #### [Day 3: HTML3.0](https://abukhalil95.github.io/reading-notes/class-03)
-* #### [Day 4: N/A](https://abukhalil95.github.io/reading-notes/class-04)
+* #### [Day 1: HTML](https://abukhalil95.github.io/reading-notes/class-01)
+* #### [Day 2: HTMLCSS](https://abukhalil95.github.io/reading-notes/class-02)
+* #### [Day 3: CSSJS](https://abukhalil95.github.io/reading-notes/class-03)
+* #### [Day 4: JS](https://abukhalil95.github.io/reading-notes/class-04)
 * #### [Day 5: N/A](https://abukhalil95.github.io/reading-notes/class-05)
 * #### [Day 6: N/A](https://abukhalil95.github.io/reading-notes/class-06)
 * #### [Day 7: N/A](https://abukhalil95.github.io/reading-notes/class-07)
