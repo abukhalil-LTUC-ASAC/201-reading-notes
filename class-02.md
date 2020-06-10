@@ -58,3 +58,5 @@ One mistake to avoid is not adhering to javascript sensibilities and mixing uppe
 Organize functions into code blocks, and try avoid too much nesting. Comments are a must before each new function to explain what it does, so you wont change it tomorrow when you forget about it.
 
 The [old note](https://abukhalil95.github.io/learning-journal/first_steps) did well in explaining most of the syntax, and don't forget to [loop](https://abukhalil95.github.io/learning-journal/foreverAgrind)
+
+<button name="button" onclick="https://abukhalil95.github.io/reading-notes/class-03">Next</button>
