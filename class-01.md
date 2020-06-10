@@ -63,4 +63,4 @@ From the past posts in the [learning journal](https://abukhalil95.github.io/lear
 
 > Think like a computer and I guarantee you you'd find a way to do it, at a small cost of your ~~sanity~~ brain power. -Yahya Abu Khalil
 
-<button name="button" onclick="https://abukhalil95.github.io/reading-notes/class-02">Next</button>
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-02)

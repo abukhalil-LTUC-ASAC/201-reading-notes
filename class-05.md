@@ -51,8 +51,4 @@ Useful selectors indicate parts of text to manipulate such as:
 
 Finally, other attribute selectors are best to [*be practiced upon*](https://flukeout.github.io/), as they will be used sparingly but has great use in highly interactive apps.
 
-<button name="button" onclick="https://abukhalil95.github.io/reading-notes/class-06">Next</button>
-
-
-
-
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-06)

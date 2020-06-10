@@ -55,4 +55,4 @@ function doThis(input1,input2,..){
 ```
 And when you need it, simply call `doThis(input1,input2,..);`, other ways to write functions such as Anonymous(unnamed), and Immediately Invoked Function Expressions (llFE) are mostly used to execute functions once such as events, and arguments. Variable conflicts is a major concern, since normal declared functions share variable names among each other, so one variable exists somewhere, but can be accessed everywhere.
 
-<button name="button" onclick="https://abukhalil95.github.io/reading-notes/class-05">Next</button>
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-05)

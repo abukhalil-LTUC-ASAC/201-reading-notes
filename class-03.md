@@ -40,4 +40,4 @@ var artistA = (artist || 'Unknown') ;
 ```
 Where artistA is either artist or unknown, but is artist if it exists, and Unknown otherwise.
 
-<button name="button" onclick="https://abukhalil95.github.io/reading-notes/class-04">Next</button>
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-04)

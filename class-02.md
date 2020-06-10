@@ -59,4 +59,4 @@ Organize functions into code blocks, and try avoid too much nesting. Comments ar
 
 The [old note](https://abukhalil95.github.io/learning-journal/first_steps) did well in explaining most of the syntax, and don't forget to [loop](https://abukhalil95.github.io/learning-journal/foreverAgrind)
 
-<button name="button" onclick="https://abukhalil95.github.io/reading-notes/class-03">Next</button>
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-03)
