@@ -29,7 +29,7 @@ Other interesting fact is you could access values of object properties and using
 
 With its **Document**, **Element**, **Attribute** and **Text** Nodes, that each web page has a model of to translate the information to our pages that we see. Javascript interacts with such nodes and changes them dynamically, allowing for interactive web apps to happen!
 
-![DOM picture](https://en.wikipedia.org/wiki/Document_Object_Model#/media/File:DOM-model.svg)
+![DOM picture](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1024px-DOM-model.svg.png)
 
 You start with the **document** node, which encompasses the whole web page, then work down to **elements** such as `<div>` which has **property** nodes attached, all the way to **text** nodes which are our end points.
 
