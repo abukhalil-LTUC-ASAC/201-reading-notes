@@ -46,4 +46,10 @@ Interesting things to learn are how to access each element, by selecting it:
   * previous/nextSibling
   * first/lastChild
 
-And even more interesting work comes with doing actual work in their values.
+And even more interesting work comes with doing actual work in their values. These works can be simplified as `nodeValue` to access node content but not text or child. Changes to text and inner child content happens with `innerHTML` or `textContent` for text only.
+
+New nodes can be created or old can be removed using `createElement()`, `createTextNode()`, `append/removeChild` as DOM manipulators. Their properties are accessed and changed using `hasAttribute()`, `getAttribute()`, `setAttribute()`, `removeAttribute()` which affect id's and classes.
+
+**DOM queries** means finding elements, and saving that element in a variable actually saves its location for further manipulations. CSS selector queries will be most used as it is very specific and handy when doing very fine manipulations on the DOM tree. Extra effort into the selectors are needed for frontend development.
+
+
