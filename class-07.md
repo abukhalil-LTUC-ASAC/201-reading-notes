@@ -96,3 +96,5 @@ There are proven steps to make sure you'd understand any given problem domain an
   - Javascript (String, Math, Date) with properties (length, PI) and methods (isNan(), getDate(), round())
 
 With the rest coming out of lookup and practice. Familiarity can only get you so far.
+
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-08)

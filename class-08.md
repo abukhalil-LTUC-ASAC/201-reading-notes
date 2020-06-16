@@ -16,3 +16,5 @@ Layout Grids is an awesome concept to organize your content around. Basically cu
 Using a framework to decide on a layout grid is a fine starting point without sacrificing customizability and cleanliness of code. One of them are [960 Grid System](http://www.960.gs)
 
 Getting custom styles in different stylesheets is a good way to keep in control what they do, since they usually control a particular effect rather than the whole page. Use `@import url("this.css");` in the css file or `<link rel="stylesheet" type="text/css href="css/this.css>` in the HTML file.
+
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-09)

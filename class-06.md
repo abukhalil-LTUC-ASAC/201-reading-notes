@@ -52,4 +52,4 @@ New nodes can be created or old can be removed using `createElement()`, `createT
 
 **DOM queries** means finding elements, and saving that element in a variable actually saves its location for further manipulations. CSS selector queries will be most used as it is very specific and handy when doing very fine manipulations on the DOM tree. Extra effort into the selectors are needed for frontend development.
 
-
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-07)
