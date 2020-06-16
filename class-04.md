@@ -34,6 +34,8 @@ width: 300px;
 float: left;
 margin: 10px;}
 ```
+I do however, prefer using percentage width, or even [`flex with width weight`](https://stackoverflow.com/questions/42165980/html-css-elements-weight)
+
 ### Is it solid, or liquid?
 Most important part of defining positions, is because of the variable size of user-interface(screen size), and with such great variability, comes even greater headaches. I'd just go with CSS grids, or other frameworks *ehm..[Bootstrap](https://getbootstrap.com/docs/4.5/examples/)ehm..*. for now.
 
