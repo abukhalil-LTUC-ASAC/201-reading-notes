@@ -14,7 +14,7 @@ Starting off, similarly, but at a much more depth. This beginning is about to be
 * #### [Day 7: JS - OOP](https://abukhalil95.github.io/reading-notes/class-07)
 * #### [Day 8: CSS - Layouts](https://abukhalil95.github.io/reading-notes/class-08)
 * #### [Day 9: HTMLCSSJS - Forms & Events](https://abukhalil95.github.io/reading-notes/class-09)
-* #### [Day 10: N/A](https://abukhalil95.github.io/reading-notes/class-10)
+* #### [Day 10: HTMLCSSJS - Debugging](https://abukhalil95.github.io/reading-notes/class-10)
 * #### [Day 11: N/A](https://abukhalil95.github.io/reading-notes/class-11)
 * #### [Day 12: N/A](https://abukhalil95.github.io/reading-notes/class-12)
 * #### [Day 13: N/A](https://abukhalil95.github.io/reading-notes/class-13)
