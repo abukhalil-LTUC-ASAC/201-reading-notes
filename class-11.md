@@ -20,7 +20,7 @@ Following up from the [basic intro](https://abukhalil95.github.io/reading-notes/
 
 * `sprites`: are defined as a single image used multiple times.
 
-          ```
+```
           a.button {
           height: 36px;
           background-image: url("images/button-sprite.jpg");
@@ -48,34 +48,34 @@ Following up from the [basic intro](https://abukhalil95.github.io/reading-notes/
                       a#framing-options:active {
                       background-position: -175px -80px;
           }
-          ```
+```
 
           The above represents 6 states using a single image for the basic, hover and click.
 
 * `background-image` gradients: are a fun way to add aesthetic value without using images, it uses two or more colors to express the difference between them as linear color gradient, and the angle it makes or a [different radial gradient](https://cssgradient.io/), since browser support is limited for this part the following code helps make up for that part by specifying per browser settings and a fallback image if everything fails.
 
-          ```
-            gradient {
-            /* fallback color */
-            background-color: #66cccc;
-            /* fallback image */
-            background-image: url(images/fallback-image.png);
-            /* Firefox 3.6+ */
-            background-image: -moz-linear-gradient(#336666,
-            #66cccc);
-            /* Safari 4+, Chrome 1+ */
-            background-image: -webkit-gradient(linear, 0% 0%,
-            0% 100%, from(#66cccc), to(#336666));
-            /* Safari 5.1+, Chrome 10+ */
-            background-image: -webkit-linear-gradient(#336666,
-            #66cccc);
-            /* Opera 11.10+ */
-            background-image: -o-linear-gradient(#336666,
-            #66cccc);
-            height: 150px;
-            width: 300px;
-          }
-          ```
+```
+        gradient {
+        /* fallback color */
+        background-color: #66cccc;
+        /* fallback image */
+        background-image: url(images/fallback-image.png);
+        /* Firefox 3.6+ */
+        background-image: -moz-linear-gradient(#336666,
+        #66cccc);
+        /* Safari 4+, Chrome 1+ */
+        background-image: -webkit-gradient(linear, 0% 0%,
+        0% 100%, from(#66cccc), to(#336666));
+        /* Safari 5.1+, Chrome 10+ */
+        background-image: -webkit-linear-gradient(#336666,
+        #66cccc);
+        /* Opera 11.10+ */
+        background-image: -o-linear-gradient(#336666,
+        #66cccc);
+        height: 150px;
+        width: 300px;
+      }
+```
 * Contrast is a major hurdle when dealing with images with overlay text, my way is to add a background padding that has a transparent and low contrast color that envelopes such texts nicely.
 
 ## Working with the SEO
@@ -86,52 +86,51 @@ Knowing beforehand that no matter what your website does, or how much work you h
 
     The following is an ordered list of where keywords should exist.
 
-      1. Page title.
-      2. URL/Web Address.
-      3. Headings `<h1..6>` tags.
-      4. Text (2-3 times in body content).
-      5. In between `<a>` tags with relevant (not click me!) content.
-      6. Image `alt=""` text.
-      7. [Page descriptions](https://yoast.com/meta-descriptions/) using `<meta>` tags.
+    1. Page title.
+    2. URL/Web Address.
+    3. Headings `<h1..6>` tags.
+    4. Text (2-3 times in body content).
+    5. In between `<a>` tags with relevant (not click me!) content.
+    6. Image `alt=""` text.
+    7. [Page descriptions](https://yoast.com/meta-descriptions/) using `<meta>` tags.
 
 * off-page techniques: Furthers your reachability by linking other websites to yours! It also considers content inside `<a>` tags.
 
 So how would you identify what people would search for? This topic is totally new to me so I would simply list off from the book.
 
-      1. Brain storm: list your products and services, and try to ask people what do they write when they try to reach you.
-      2. Organize: Don't randomly throw keywords around, and instead make focused groups for each category and topic.
-      3. Research: Basically use online tools such as [google's adwords](https://adwords.google.co.uk/select/KeywordToolExternal) 
-      4. Compare: Something you might expect from overusing the same keywords over multiple site, as the legend said 
-        > [When everyone's super, no one would be.](https://www.youtube.com/watch?v=fmSO2cz2ozQ)
-        So don't be like the others!
+  1. Brain storm: list your products and services, and try to ask people what do they write when they try to reach you.
+  2. Organize: Don't randomly throw keywords around, and instead make focused groups for each category and topic.
+  3. Research: Basically use online tools such as [google's adwords](https://adwords.google.co.uk/select/KeywordToolExternal) 
+  4. Compare: Something you might expect from overusing the same keywords over multiple site, as the legend said 
+> When everyone's super, [no one would be.](https://www.youtube.com/watch?v=fmSO2cz2ozQ) So don't be like the others!
 
-      5. Refine: Add some relevant phrases in addition to the overused keywords, waffle stand would advertise locally at a much better chances if it adds the location and area next to the keyword.
-      6. Map: as in divide keywords to their most used context, with each page having 3-5 keywords and don't repeat over other pages.
+  5. Refine: Add some relevant phrases in addition to the overused keywords, waffle stand would advertise locally at a much better chances if it adds the location and area next to the keyword.
+  6. Map: as in divide keywords to their most used context, with each page having 3-5 keywords and don't repeat over other pages.
 
 ### Analytics, or as less famously known *stalking your visitor's behavior*.
 
 Firstly, [sign up](http://www.google.com/analytics) to the don't be evil company. Then start doing some analytics. Most important features compile to the number of people, what do they look for and where do they come from.
 
 #### * Numbers of people data include:
-      - Number of visits total
-      - Unique visits per address
-      - Page views total
-      - Pages per visit on average
-      - Average time on site
-      - Date selector to change data to match specific date
-      - Exporting the data
+  - Number of visits total
+  - Unique visits per address
+  - Page views total
+  - Pages per visit on average
+  - Average time on site
+  - Date selector to change data to match specific date
+  - Exporting the data
 
 #### * What are your visitors looking at?
-      - Most visited pages
-      - Landing pages where visitors first visit
-      - Most exit pages
-      - Bounce rate of those who leave from the landing page
+  - Most visited pages
+  - Landing pages where visitors first visit
+  - Most exit pages
+  - Bounce rate of those who leave from the landing page
 
 #### * Source of entry!
-      - Referrers as in most link pressed from another site to yours
-      - Direct url typed in browser
-      - Search terms from search engines such as google
-      - Advanced features which include more in-depth and content dependant data
+  - Referrers as in most link pressed from another site to yours
+  - Direct url typed in browser
+  - Search terms from search engines such as google
+  - Advanced features which include more in-depth and content dependant data
 
 ## So what does it take to get your website off?
 
@@ -139,11 +138,11 @@ Not an arm and leg, that is for sure! First step is about getting your domain na
 
 With the domain at hand, you would need some machine to launch the code with its domain from. Using web hosting services from third party servers are the most famous way to do so, even if you are paranoid about it's security, experience has shown how cheap and reliable they are. These hosting services vary in amount but they have similar cost dependant factors which are: 
 
-    1. Disk Space
-    2. Bandwidth which is basically the total upload and download traffic that comes and goes from your website
-    3. Backups are additional spaces reserved for backing up your data. Mostly as a service and will offer swift relaunch in case of failure.
-    4. Email accounts and inbox size might be part of the bundle, giving you custom @mywebsite.com email address.
-    5. Server-side languages and databases is an important factor in checking if they can even host your website.
+  1. Disk Space
+  2. Bandwidth which is basically the total upload and download traffic that comes and goes from your website
+  3. Backups are additional spaces reserved for backing up your data. Mostly as a service and will offer swift relaunch in case of failure.
+  4. Email accounts and inbox size might be part of the bundle, giving you custom @mywebsite.com email address.
+  5. Server-side languages and databases is an important factor in checking if they can even host your website.
 
 Some hosting services comes along with the full package, with you only need to use the domain name and point it towards their services such as wordpress and shopify.
 
