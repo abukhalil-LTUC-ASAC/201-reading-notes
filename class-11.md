@@ -8,9 +8,6 @@ Following up from the [basic intro](https://abukhalil95.github.io/reading-notes/
 * Alignment: using the `float` property inside an `class=".alignleft"` or `class=".alignright"` to make life easier when assigning this property to images.
     * Centering the image I found best using `img.align-center { display: block; margin: 0px auto;}` since images are inline, and needs to be turned into blocks, then margining helps with 0px top and bottom, but of equal left and right margins since its automatically assigned.
 * `background-image`: helps turn a whole `<div>` block into an image as a background.
-<details>
-<summary>More Details.</summary>
-
     * repeat can be specified on x or y or automatically to repeat the image and fill the whole background.
     * fixed or scroll keeps the image in its place or scroll with the user
     * background-position specifies a no repeat image to a position.
@@ -20,11 +17,8 @@ Following up from the [basic intro](https://abukhalil95.github.io/reading-notes/
         3. background-repeat
         4. background-attachment
         5. background-position
-</details>
 
 * `sprites`: are defined as a single image used multiple times.
-<details>
-  <summary>Click to show some sprite code!</summary>
 
           ```
           a.button {
@@ -57,13 +51,8 @@ Following up from the [basic intro](https://abukhalil95.github.io/reading-notes/
           ```
 
           The above represents 6 states using a single image for the basic, hover and click.
-</details>
-
 
 * `background-image` gradients: are a fun way to add aesthetic value without using images, it uses two or more colors to express the difference between them as linear color gradient, and the angle it makes or a [different radial gradient](https://cssgradient.io/), since browser support is limited for this part the following code helps make up for that part by specifying per browser settings and a fallback image if everything fails.
-
-      <details>
-        <summary>Click to show browser support code.</summary>
 
           ```
             gradient {
@@ -87,9 +76,6 @@ Following up from the [basic intro](https://abukhalil95.github.io/reading-notes/
             width: 300px;
           }
           ```
-
-        </details>
-
 * Contrast is a major hurdle when dealing with images with overlay text, my way is to add a background padding that has a transparent and low contrast color that envelopes such texts nicely.
 
 ## Working with the SEO
@@ -97,8 +83,6 @@ Following up from the [basic intro](https://abukhalil95.github.io/reading-notes/
 Knowing beforehand that no matter what your website does, or how much work you had put in it. It won't matter at all if people cannot search for it. This comes in play in two parts:
 
 * on-page techniques: Which describes the practice of using what people might look for inside you website, such as texts and alt images.
-  <details>
-  <summary>Detailed Techniques</summary>
 
     The following is an ordered list of where keywords should exist.
 
@@ -110,14 +94,9 @@ Knowing beforehand that no matter what your website does, or how much work you h
       6. Image `alt=""` text.
       7. [Page descriptions](https://yoast.com/meta-descriptions/) using `<meta>` tags.
 
-
-  </details>
 * off-page techniques: Furthers your reachability by linking other websites to yours! It also considers content inside `<a>` tags.
 
 So how would you identify what people would search for? This topic is totally new to me so I would simply list off from the book.
-
-  <details>
-  <summary>Getting the keywords right.</summary>
 
       1. Brain storm: list your products and services, and try to ask people what do they write when they try to reach you.
       2. Organize: Don't randomly throw keywords around, and instead make focused groups for each category and topic.
@@ -128,8 +107,6 @@ So how would you identify what people would search for? This topic is totally ne
 
       5. Refine: Add some relevant phrases in addition to the overused keywords, waffle stand would advertise locally at a much better chances if it adds the location and area next to the keyword.
       6. Map: as in divide keywords to their most used context, with each page having 3-5 keywords and don't repeat over other pages.
-
-  </details>
 
 ### Analytics, or as less famously known *stalking your visitor's behavior*.
 
