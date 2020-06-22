@@ -145,3 +145,5 @@ Most used events are:
 * Form events with submit, change and input
 * Mutation events for any DOM changes
 * HTML 5 events which are interesting cases. DOMContentLoaded for when the basic DOM has been loaded but CSS, image and JS might not be.
+
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-10)

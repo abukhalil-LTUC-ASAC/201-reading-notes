@@ -153,3 +153,5 @@ Transfers are mostly done through file transfer protocol (FTP), some are built i
 ## HTML 5's new `<video><audio>` tags 
 
 All while also providing a `HTMLMediaElement` API to make your own custom playbacks and different functionalities. If you ever need your own player and not a link to youtube and vimeo, take a [deep look into the website](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs) and start customizing.
+
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-12)

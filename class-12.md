@@ -104,3 +104,5 @@ function draw() {
 ![pattern](https://media.prod.mdn.mozit.cloud/attachments/2012/07/09/222/bcf90d24adf679755d47e6e2adf31afa/Canvas_createpattern.png)
 
 The tools requires extensive practice to get it right, one time uses is OK but it could go really heavy and make a website truly unique.
+
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-13)

@@ -49,3 +49,5 @@ if (!isNaN(area)) {
 * Stackoverflow
 * Use code playgrounds before posting a problem
 * Validate with online tools such as `jslint/jshint.com`
+
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-11)

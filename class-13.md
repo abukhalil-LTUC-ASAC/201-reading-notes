@@ -16,7 +16,7 @@ Google however provided a smart plan, by implementing SQLite based solution to t
 
 ## Forward for victory
 
-In addition to what gears offered, there was finally a local [key/value pair](https://searchenterprisedesktop.techtarget.com/definition/key-value-pair#:~:text=A%20key%2Dvalue%20pair%20(KVP,hash%20tables%20and%20configuration%20files.) solution that is persistent, non transmittable and is implemented natively across many platforms. Check it out using the following command.
+In addition to what gears offered, there was finally a local [key/value pair](https://searchenterprisedesktop.techtarget.com/definition/key-value-pair.) solution that is persistent, non transmittable and is implemented natively across many platforms. Check it out using the following command.
 ```
 if (Modernizr.localstorage) {
   // window.localStorage is available!
@@ -61,7 +61,7 @@ if (window.addEventListener) {
 
 ## Knowing yourself, and your weaknesses
 
-"The answers, in order of importance, are “5 megabytes,” “QUOTA_EXCEEDED_ERR,” and “no.”". -http://diveinto.html5doctor.com/storage.html
+"The answers, in order of importance, are “5 megabytes,” “QUOTA_EXCEEDED_ERR,” and “no.”".
 Literally, 5 megabytes of storage, and error if it is exceeded, and no you can't ask for more.
 
 ## [Click me, and play](http://diveinto.html5doctor.com/examples/localstorage-halma.html)
@@ -80,5 +80,4 @@ Things could be said about IndexDB, it did after all, get a reaction from the gi
 
 [Keep an eye open for it.](http://diveinto.html5doctor.com/storage.html#further-reading)
 
-
-
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-14)
