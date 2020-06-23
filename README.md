@@ -18,5 +18,6 @@ Starting off, similarly, but at a much more depth. This beginning is about to be
 * #### [Day 11: CSS - Images](https://abukhalil95.github.io/reading-notes/class-11)
 * #### [Day 12: JS - Charts](https://abukhalil95.github.io/reading-notes/class-12)
 * #### [Day 13: JS - Local Storage](https://abukhalil95.github.io/reading-notes/class-13)
-* #### [Day 14: N/A](https://abukhalil95.github.io/reading-notes/class-14)
+* #### [Day 14: N/A](https://abukhalil95.github.io/reading-notes/class-14a)
+* #### [Day 14: N/A - Team Building](https://abukhalil95.github.io/reading-notes/class-14b)
 * #### [Day 15: N/A](https://abukhalil95.github.io/reading-notes/class-15)

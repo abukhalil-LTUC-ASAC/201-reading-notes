@@ -80,4 +80,4 @@ Things could be said about IndexDB, it did after all, get a reaction from the gi
 
 [Keep an eye open for it.](http://diveinto.html5doctor.com/storage.html#further-reading)
 
-[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-14)
+[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-14a)
