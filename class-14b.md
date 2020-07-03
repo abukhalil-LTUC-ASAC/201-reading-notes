@@ -63,7 +63,3 @@ I did realize that I had so much `work face` wearing me down while I worked my w
 Our protagonist came to the same conclusion, and sought to remind what google's effort came to too.
 
 > ‘‘Just having data that proves to people that these things are worth paying attention to sometimes is the most important step in getting them to actually pay attention, don’t underestimate the power of giving people a common platform and operating language.’’ -Rozovsky
-
-
-
-[<button >Next</button>](https://abukhalil95.github.io/reading-notes/class-15)

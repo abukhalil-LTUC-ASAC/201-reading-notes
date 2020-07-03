@@ -5,7 +5,7 @@
 Translate gives the ability to change the size, position and elements as a whole, both in 2d and 3d settings. Keywords as stated below is what will be frequently used.
 
 <details>
-
+<pre>
   <summary>- Scale</summary>
 
 values larger or smaller than 1 scales the element accordingly, around the center point. Syntax follows: 
@@ -21,10 +21,11 @@ values larger or smaller than 1 scales the element accordingly, around the cente
   transform: scale(.5, 1.15);
 }
 ```
-
+</pre>
 </details>
 
 <details>
+<pre>
 
   <summary>- Rotate</summary>
 
@@ -38,10 +39,11 @@ This property allows for element rotation around it's center point by default, w
   transform: rotate(-55deg);
 }
 ```
-
+</pre>
 </details>
 
 <details>
+<pre>
 
   <summary>- Skew</summary>
 
@@ -58,10 +60,11 @@ A distortion effect used to pull elements around their horizontal, vertical or a
   transform: skew(5deg, -20deg);
 }
 ```
-
+</pre>
 </details>
 
 <details>
+<pre>
 
   <summary>- Translate</summary>
 
@@ -78,10 +81,11 @@ Which moves the element as a whole from its center, without affecting any other 
   transform: translate(-10px, 25%);
 }
 ```
-
+</pre>
 </details>
 
 <details>
+<pre>
 
   <summary>- Combination</summary>
 
@@ -95,9 +99,12 @@ It is important to note only one transform per element can be declared, as it wi
   transform: skew(10deg, 20deg) translateX(20px);
 }
 ```
+
+</pre>
 </details>
 
 <details>
+<pre>
 
   <summary>Transform Origin</summary>
 
@@ -122,9 +129,11 @@ Changing the center of transformation allows for really interesting effects. As 
 }
 ```
 
+</pre>
 </details>
 
 <details>
+<pre>
 
   <summary>Browser Support Syntax (Vendor prefixes)</summary>
 The general syntax is done by using `transform: value` plus any prefix for browser support.
@@ -137,6 +146,8 @@ div {
           transform: scale(1.5);
 }
 ```
+
+</pre>
 </details>
 
 3D transformations are of a topic that can be revised in [this website](https://learn.shayhowe.com/advanced-html-css/css-transforms/#perspective) but apparently it is not widely used, since most web applications require simplicity and clarity, especially when considering mobile usage and small screens. However, look for niche works with 3D webs such as simulation works and the gaming industry in general!
@@ -146,6 +157,7 @@ div {
 Transitions lend themselves a good portion of animation, through displaying changes in an element between two or more states in a smooth way. The other state is usually defined in the CSS pseudo classes `:hover`, `:focus`, `:active` and `:target`.
 
 <details>
+<pre>
 
   <summary>- Transition-property</summary>
 
@@ -164,9 +176,11 @@ outline-color     ||  outline-offset  ||  outline-width ||  padding ||
 right || text-indent || text-shadow || top  || vertical-align ||
 visibility || width || word-spacing || z-index
 
+</pre>
 </details>
 
 <details>
+<pre>
 
   <summary>- Transition-duration</summary>
 
@@ -186,9 +200,11 @@ Defines the time needed to get the transition for each property, multiple proper
 }
 ```
 
+</pre>
 </details>
 
 <details>
+<pre>
 
   <summary>- Transition-timing-function</summary>
 
@@ -210,16 +226,21 @@ To explore the function and how it works, [check out this website](http://www.ro
 }
 ```
 
+</pre>
 </details>
 
 <details>
+<pre>
+
   <summary>- Transition-delay</summary>
 
 ِAlong with everything stated, this value sets a delay timer in seconds to the transition. As simple as that.
 
+</pre>
 </details>
 
 <details>
+<pre>
 
   <summary>Shorthand Form</summary>
 
@@ -236,6 +257,8 @@ Code could look very messy and have long lines that could be substituted with si
   border-radius: 50%;
 }
 ```
+
+</pre>
 </details>
 
 ## Keyframes
@@ -243,6 +266,7 @@ Code could look very messy and have long lines that could be substituted with si
 Keyframes adds just the right amount of control needed to make it the way you intended for the animation to roll. It splits the animation apart into different stages instead of having 2 states only. The split can be defined by position using `From-to approach` in pixels and `Percentage approach` for relative percentage value.
 
 <details>
+<pre>
 
   <summary>How it is used?</summary>
 
@@ -279,6 +303,8 @@ The top priority is to add `animation-name` as the way transition will happen su
   animation-delay: .5s;
 }
 ```
+
+</pre>
 </details>
 
 There are additional [custom animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/#customizing-animations) that could be handy to really make your web app *move*. 
