@@ -5,7 +5,9 @@
 Translate gives the ability to change the size, position and elements as a whole, both in 2d and 3d settings. Keywords as stated below is what will be frequently used.
 
 <details>
-  <summary>- Scale</summary>
+  <summary>
+  - Scale
+  </summary>
 
 values larger or smaller than 1 scales the element accordingly, around the center point. Syntax follows: 
 
@@ -23,7 +25,9 @@ values larger or smaller than 1 scales the element accordingly, around the cente
 </details>
 
 <details>
-  <summary>- Rotate</summary>
+  <summary>
+  - Rotate
+  </summary>
 
 This property allows for element rotation around it's center point by default, with positive for clockwise rotation and negative for counter clockwise.
 
@@ -38,7 +42,9 @@ This property allows for element rotation around it's center point by default, w
 </details>
 
 <details>
-  <summary>- Skew</summary>
+  <summary>
+  - Skew
+  </summary>
 
 A distortion effect used to pull elements around their horizontal, vertical or a bit of both, as if you pushed the sides until the corner reaches the angle with its center. It uses `deg` values.
 
@@ -56,7 +62,9 @@ A distortion effect used to pull elements around their horizontal, vertical or a
 </details>
 
 <details>
-  <summary>- Translate</summary>
+  <summary>
+  - Translate
+  </summary>
 
 Which moves the element as a whole from its center, without affecting any other element around it, similar to positioning with fixed. Using pixels and percentages with `(x,y)` to change them according to the perspective axis. Percentage means relative to its total x or y length.
 
@@ -74,7 +82,9 @@ Which moves the element as a whole from its center, without affecting any other 
 </details>
 
 <details>
-  <summary>- Combination</summary>
+  <summary>
+  - Combination
+  </summary>
 
 It is important to note only one transform per element can be declared, as it will overwrite the previous with next transform property. Instead they will be bunched with spaced in between.
 
@@ -89,7 +99,9 @@ It is important to note only one transform per element can be declared, as it wi
 </details>
 
 <details>
-  <summary>Transform Origin</summary>
+  <summary>
+  Transform Origin
+  </summary>
 
 Changing the center of transformation allows for really interesting effects. As it allows for transitions around the edges or sides and different scaling looks. The value specifies the vertical and horizontal axes or each separately.
 
@@ -114,7 +126,9 @@ Changing the center of transformation allows for really interesting effects. As 
 </details>
 
 <details>
-  <summary>Browser Support Syntax (Vendor prefixes)</summary>
+  <summary>
+  Browser Support Syntax (Vendor prefixes)
+  </summary>
 The general syntax is done by using `transform: value` plus any prefix for browser support.
 
 <pre>
@@ -134,7 +148,9 @@ div {
 Transitions lend themselves a good portion of animation, through displaying changes in an element between two or more states in a smooth way. The other state is usually defined in the CSS pseudo classes `:hover`, `:focus`, `:active` and `:target`.
 
 <details>
-  <summary>- Transition-property</summary>
+  <summary>
+  - Transition-property
+  </summary>
 
 Properties with no half-point cannot be transitioned for the obvious reason as it cannot be transitions. Such as `display` which has two absolute values. Multiples are declared in the same line `transition-property` and separated by comma.
 
@@ -158,7 +174,9 @@ z-index
 </details>
 
 <details>
-  <summary>- Transition-duration</summary>
+  <summary>
+  - Transition-duration
+  </summary>
 
 Defines the time needed to get the transition for each property, multiple properties are defined with durations separated by comma with each index refers to the property in the same index. 
 
@@ -178,7 +196,9 @@ Defines the time needed to get the transition for each property, multiple proper
 </details>
 
 <details>
-  <summary>- Transition-timing-function</summary>
+  <summary>
+  - Transition-timing-function
+  </summary>
 
 With the time defined, speed could also be specified along the transition, it has multiple keywords that can be used together such as `linear`, `ease-in`, `ease-out`, `ease-in-out`. 
 
@@ -200,14 +220,18 @@ To explore the function and how it works, [check out this website](http://www.ro
 </details>
 
 <details>
-  <summary>- Transition-delay</summary>
+  <summary>
+  - Transition-delay
+  </summary>
 
 ِAlong with everything stated, this value sets a delay timer in seconds to the transition. As simple as that.
 
 </details>
 
 <details>
-  <summary>Shorthand Form</summary>
+  <summary>
+  Shorthand Form
+  </summary>
 
 Code could look very messy and have long lines that could be substituted with single liners that is readable and elegant. The rule is to have an order with `transition-property`, `transition-duration`,` transition-timing-function`, `lastly transition-delay` and separated by commas for different transitions.
 
@@ -230,7 +254,9 @@ Code could look very messy and have long lines that could be substituted with si
 Keyframes adds just the right amount of control needed to make it the way you intended for the animation to roll. It splits the animation apart into different stages instead of having 2 states only. The split can be defined by position using `From-to approach` in pixels and `Percentage approach` for relative percentage value.
 
 <details>
-  <summary>How it is used?</summary>
+  <summary>
+  How it is used?
+  </summary>
 
 The top priority is to add `animation-name` as the way transition will happen such as `step` or `slide`, and the duration needs to be specified. Additionally:
 
