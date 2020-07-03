@@ -20,4 +20,3 @@ Starting off, similarly, but at a much more depth. This beginning is about to be
 * #### [Day 13: JS - Local Storage](https://abukhalil95.github.io/reading-notes/class-13)
 * #### [Day 14a: CSS - Animation](https://abukhalil95.github.io/reading-notes/class-14a)
 * #### [Day 14b: N/A - Team Building](https://abukhalil95.github.io/reading-notes/class-14b)
-* #### [Day 15: N/A](https://abukhalil95.github.io/reading-notes/class-15)
