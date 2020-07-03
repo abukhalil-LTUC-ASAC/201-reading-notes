@@ -4,12 +4,12 @@
 ## Transform
 Translate gives the ability to change the size, position and elements as a whole, both in 2d and 3d settings. Keywords as stated below is what will be frequently used.
 
+Scale values larger or smaller than 1 scales the element accordingly, around the center point. Syntax follows: 
+
 <details>
   <summary>
   - Scale
   </summary>
-
-values larger or smaller than 1 scales the element accordingly, around the center point. Syntax follows: 
 
 <pre>
 .box-1 {
@@ -24,12 +24,12 @@ values larger or smaller than 1 scales the element accordingly, around the cente
 </pre>
 </details>
 
+Rotate property allows for element rotation around it's center point by default, with positive for clockwise rotation and negative for counter clockwise.
+
 <details>
   <summary>
   - Rotate
   </summary>
-
-This property allows for element rotation around it's center point by default, with positive for clockwise rotation and negative for counter clockwise.
 
 <pre>
 .box-1 {
@@ -41,12 +41,12 @@ This property allows for element rotation around it's center point by default, w
 </pre>
 </details>
 
+Skew distortion effect used to pull elements around their horizontal, vertical or a bit of both, as if you pushed the sides until the corner reaches the angle with its center. It uses `deg` values.
+
 <details>
   <summary>
   - Skew
   </summary>
-
-A distortion effect used to pull elements around their horizontal, vertical or a bit of both, as if you pushed the sides until the corner reaches the angle with its center. It uses `deg` values.
 
 <pre>
 .box-1 {
@@ -61,12 +61,12 @@ A distortion effect used to pull elements around their horizontal, vertical or a
 </pre>
 </details>
 
+Translate moves the element as a whole from its center, without affecting any other element around it, similar to positioning with fixed. Using pixels and percentages with `(x,y)` to change them according to the perspective axis. Percentage means relative to its total x or y length.
+
 <details>
   <summary>
   - Translate
   </summary>
-
-Which moves the element as a whole from its center, without affecting any other element around it, similar to positioning with fixed. Using pixels and percentages with `(x,y)` to change them according to the perspective axis. Percentage means relative to its total x or y length.
 
 <pre>
 .box-1 {
@@ -81,12 +81,12 @@ Which moves the element as a whole from its center, without affecting any other 
 </pre>
 </details>
 
+Combination, it is important to note only one transform per element can be declared, as it will overwrite the previous with next transform property. Instead they will be bunched with spaced in between.
+
 <details>
   <summary>
   - Combination
   </summary>
-
-It is important to note only one transform per element can be declared, as it will overwrite the previous with next transform property. Instead they will be bunched with spaced in between.
 
 <pre>
 .box-1 {
@@ -98,12 +98,12 @@ It is important to note only one transform per element can be declared, as it wi
 </pre>
 </details>
 
+Transform Origin changes the center of transformation allows for really interesting effects. As it allows for transitions around the edges or sides and different scaling looks. The value specifies the vertical and horizontal axes or each separately.
+
 <details>
   <summary>
   Transform Origin
   </summary>
-
-Changing the center of transformation allows for really interesting effects. As it allows for transitions around the edges or sides and different scaling looks. The value specifies the vertical and horizontal axes or each separately.
 
 <pre>
 .box-1 {
@@ -125,11 +125,12 @@ Changing the center of transformation allows for really interesting effects. As 
 </pre>
 </details>
 
+The general syntax is done by using `transform: value` plus any prefix for browser support.
+
 <details>
   <summary>
   Browser Support Syntax (Vendor prefixes)
   </summary>
-The general syntax is done by using `transform: value` plus any prefix for browser support.
 
 <pre>
 div {
@@ -147,15 +148,14 @@ div {
 
 Transitions lend themselves a good portion of animation, through displaying changes in an element between two or more states in a smooth way. The other state is usually defined in the CSS pseudo classes `:hover`, `:focus`, `:active` and `:target`.
 
+Transition-property with no half-point cannot be transitioned for the obvious reason as it cannot be transitions. Such as `display` which has two absolute values. Multiples are declared in the same line `transition-property` and separated by comma.
+
 <details>
   <summary>
   - Transition-property
   </summary>
 
-Properties with no half-point cannot be transitioned for the obvious reason as it cannot be transitions. Such as `display` which has two absolute values. Multiples are declared in the same line `transition-property` and separated by comma.
-
 The list of transition friendly properties are
-
 <pre>
 background-color  || background-position ||   border-color  ||
 border-width      ||  border-spacing     ||     bottom      ||
@@ -173,12 +173,12 @@ z-index
 </pre>
 </details>
 
+Transition-duration defines the time needed to get the transition for each property, multiple properties are defined with durations separated by comma with each index refers to the property in the same index. 
+
 <details>
   <summary>
   - Transition-duration
   </summary>
-
-Defines the time needed to get the transition for each property, multiple properties are defined with durations separated by comma with each index refers to the property in the same index. 
 
 <pre>
 .box {
@@ -195,14 +195,14 @@ Defines the time needed to get the transition for each property, multiple proper
 </pre>
 </details>
 
+Transition-timing-function defined, speed could also be specified along the transition, it has multiple keywords that can be used together such as `linear`, `ease-in`, `ease-out`, `ease-in-out`. 
+
+To explore the function and how it works, [check out this website](http://www.roblaplaca.com/examples/bezierBuilder/), which can be set using `cubic-bezier(x1, y1, x2, y2)`. Additional values include `step-start`, `step-stop`, and a uniquely identified `steps(number_of_steps, direction)` value.
+
 <details>
   <summary>
   - Transition-timing-function
   </summary>
-
-With the time defined, speed could also be specified along the transition, it has multiple keywords that can be used together such as `linear`, `ease-in`, `ease-out`, `ease-in-out`. 
-
-To explore the function and how it works, [check out this website](http://www.roblaplaca.com/examples/bezierBuilder/), which can be set using `cubic-bezier(x1, y1, x2, y2)`. Additional values include `step-start`, `step-stop`, and a uniquely identified `steps(number_of_steps, direction)` value.
 
 <pre>
 .box {
@@ -219,21 +219,14 @@ To explore the function and how it works, [check out this website](http://www.ro
 </pre>
 </details>
 
-<details>
-  <summary>
-  - Transition-delay
-  </summary>
+Transition-delay along with everything stated, this value sets a delay timer in seconds to the transition. As simple as that.
 
-ِAlong with everything stated, this value sets a delay timer in seconds to the transition. As simple as that.
-
-</details>
+Code could look very messy and have long lines that could be substituted with single liners that is readable and elegant. The rule is to have an order with `transition-property`, `transition-duration`,` transition-timing-function`, `lastly transition-delay` and separated by commas for different transitions.
 
 <details>
   <summary>
   Shorthand Form
   </summary>
-
-Code could look very messy and have long lines that could be substituted with single liners that is readable and elegant. The rule is to have an order with `transition-property`, `transition-duration`,` transition-timing-function`, `lastly transition-delay` and separated by commas for different transitions.
 
 <pre>
 .box {
@@ -246,19 +239,18 @@ Code could look very messy and have long lines that could be substituted with si
   border-radius: 50%;
 }
 </pre>
-
 </details>
 
 ## Keyframes
 
 Keyframes adds just the right amount of control needed to make it the way you intended for the animation to roll. It splits the animation apart into different stages instead of having 2 states only. The split can be defined by position using `From-to approach` in pixels and `Percentage approach` for relative percentage value.
 
+The top priority is to add `animation-name` as the way transition will happen such as `step` or `slide`, and the duration needs to be specified. Additionally:
+
 <details>
   <summary>
   How it is used?
   </summary>
-
-The top priority is to add `animation-name` as the way transition will happen such as `step` or `slide`, and the duration needs to be specified. Additionally:
 
 <pre>
 @keyframes slide {
@@ -291,7 +283,6 @@ The top priority is to add `animation-name` as the way transition will happen su
   animation-delay: .5s;
 }
 </pre>
-
 </details>
 
 There are additional [custom animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/#customizing-animations) that could be handy to really make your web app *move*. 

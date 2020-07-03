@@ -28,16 +28,14 @@ So in 2012, our person of interest became a graduate, was interested in people�
 
 Data from at least 50 years was gathered, and no stone was unturned when it came to team work.
 
-```
-Project Aristotle’s researchers began by reviewing a half-century of academic studies looking at how teams worked. Were the best teams made up of people with similar interests? Or did it matter more whether everyone was motivated by the same kinds of rewards? Based on those studies, the researchers scrutinized the composition of groups inside Google:
+>Project Aristotle’s researchers began by reviewing a half-century of academic studies looking at how teams worked.   Were the best teams made up of people with similar interests? Or did it matter more whether everyone was motivated by the same kinds of rewards? Based on those studies, the researchers scrutinized the composition of groups inside Google:
 
-  How often did teammates socialize outside the office? 
-  Did they have the same hobbies? 
-  Were their educational backgrounds similar? 
-  Was it better for all teammates to be outgoing or for all of them to be shy? 
+  * How often did teammates socialize outside the office? 
+  * Did they have the same hobbies? 
+  * Were their educational backgrounds similar? 
+  * Was it better for all teammates to be outgoing or for all of them to be shy? 
 
-They drew diagrams showing which teams had overlapping memberships and which groups had exceeded their departments’ goals. They studied how long teams stuck together and if gender balance seemed to have an impact on a team’s success.
-```
+> They drew diagrams showing which teams had overlapping memberships and which groups had exceeded their departments’ goals. They studied how long teams stuck together and if gender balance seemed to have an impact on a team’s success.
 But nothing worked, even when data seemed to match in terms of background and makeups, the results resembled the contrast of black and white.
 
 Well, except for an ambiguous concept, that is similar to cultural norms, but on a micro scale of groups, such as when the group would enforce sharing of ideas, or cutting each other when necessary. 
