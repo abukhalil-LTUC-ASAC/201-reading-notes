@@ -38,4 +38,4 @@ Shorthand for the three is:
   flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
 }
 ```
-It is time to start flexing, amirite?
+> It is time to start flexing, amirite?
