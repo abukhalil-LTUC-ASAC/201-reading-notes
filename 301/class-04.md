@@ -1,4 +1,4 @@
-# [WATER THAT D%^# GARDEN!](https://cssgridgarden.com/)
+# [WATER THAT GARDEN, Solider!](https://cssgridgarden.com/)
 
 What I have learned and what you should too about CSS Grids: 
 
