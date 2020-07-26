@@ -30,4 +30,4 @@ Starting off with:
    });
 ```
 
-It is apparent how simple the layout looks. The rest could take you into a deep dive into the [*documentation*](https://visionmedia.github.io/superagent/.
+It is apparent how simple the layout looks. The rest could take you into a deep dive into the [*documentation*](https://visionmedia.github.io/superagent/).
