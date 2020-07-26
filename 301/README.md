@@ -9,7 +9,7 @@ If the last course looked easy, you are in for a treat.
 * #### [Day 4: CSS - CSS GRIDS](https://abukhalil95.github.io/reading-notes/301/class-04)
 * #### [Day 5: N/A - Heroku](https://abukhalil95.github.io/reading-notes/301/class-05)
 * #### [Day 6: JS - Node JS](https://abukhalil95.github.io/reading-notes/301/class-06)
-* #### [Day 7: ](https://abukhalil95.github.io/reading-notes/301/class-07)
+* #### [Day 7: N/A - API's](https://abukhalil95.github.io/reading-notes/301/class-07)
 * #### [Day 8: ](https://abukhalil95.github.io/reading-notes/301/class-08)
 * #### [Day 9: ](https://abukhalil95.github.io/reading-notes/301/class-09)
 * #### [Day 10: ](https://abukhalil95.github.io/reading-notes/301/class-10)
