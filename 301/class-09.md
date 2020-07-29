@@ -99,3 +99,5 @@ function getTotalAmount(shoppingCart) {
 
 getTotalAmount(shoppingCart); // 70
 ```
+
+### Check out [these exercises](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec).
