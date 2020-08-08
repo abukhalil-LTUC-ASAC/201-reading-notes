@@ -13,7 +13,7 @@ If the last course looked easy, you are in for a treat.
 * #### [Day 8: N/A - Databases](https://abukhalil95.github.io/reading-notes/301/class-08)
 * #### [Day 9: JS - Functional Programming](https://abukhalil95.github.io/reading-notes/301/class-09)
 * #### [Day 10: JS - THE CALL STACK](https://abukhalil95.github.io/reading-notes/301/class-10)
-* #### [Day 11: ](https://abukhalil95.github.io/reading-notes/301/class-11)
+* #### [Day 11: JS - EJS](https://abukhalil95.github.io/reading-notes/301/class-11)
 * #### [Day 12: ](https://abukhalil95.github.io/reading-notes/301/class-12)
 * #### [Day 13: ](https://abukhalil95.github.io/reading-notes/301/class-13)
 * #### [Day 14: ](https://abukhalil95.github.io/reading-notes/301/class-14)
