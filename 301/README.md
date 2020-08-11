@@ -16,7 +16,7 @@ If the last course looked easy, you are in for a treat.
 * #### [Day 11: JS - EJS](https://abukhalil95.github.io/reading-notes/301/class-11)
 * #### [Day 12: JS - EJS Partials](https://abukhalil95.github.io/reading-notes/301/class-12)
 * #### [Day 13: JS - Forms and the HTTP](https://abukhalil95.github.io/reading-notes/301/class-13)
-* #### [Day 14: ](https://abukhalil95.github.io/reading-notes/301/class-14)
+* #### [Day 14: N/A - Databases Again](https://abukhalil95.github.io/reading-notes/301/class-14)
 * #### [Day 15: ](https://abukhalil95.github.io/reading-notes/301/class-15)
 
 
