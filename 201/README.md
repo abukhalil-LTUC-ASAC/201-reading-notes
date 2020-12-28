@@ -3,7 +3,7 @@ Starting off, similarly to 102, but at a much more depth. This beginning is abou
 > “Never trust anyone who has not brought a ~~book~~ *reading note* with them.” – Lemony Snicket :shipit:
 
 # **Table of Contents**
-* #### [Day 1: HTML - Extended Edition](https://abukhalil95.github.io/reading-notes/class-01)
+* #### [Day 1: HTML - Extended Edition](class-01)
 * #### [Day 2: HTMLCSS - Text Styling](https://abukhalil95.github.io/reading-notes/class-02)
 * #### [Day 3: CSSJS - Box Model & Loops](https://abukhalil95.github.io/reading-notes/class-03)
 * #### [Day 4: HTMLJS - Structures](https://abukhalil95.github.io/reading-notes/class-04)
