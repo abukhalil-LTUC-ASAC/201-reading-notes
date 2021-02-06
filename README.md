@@ -13,5 +13,5 @@ An in-depth grind to getting HTML, CSS and Javascript right.
 ### [301](https://abukhalil95.github.io/reading-notes/301/) 
 An even deeper guide into SMACSS, JQuery, etc..
 
-### 401
-`under construction`
+### [401](https://github.com/abukhalil-LTUC-ASAC/amman-401d4/wiki)
+An indepth deep dive into Full-stack Web development
